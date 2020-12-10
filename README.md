@@ -19,3 +19,10 @@ This project is a program that is made to help digitally organize recipes. The u
 We created four hash tables - recipes by name, recipes by ingredients, recipes by time, and recipes by meal. These hash tables are used depending on each sorting input. All of the hash tables included recipes, and each recipe is a struct that holds variables name, ingredients, time, difficulty, ingredients, etc.
 
 ** Refer to Report&Peer Feedback Folder for a more detailed report.
+
+## What I learned from the Project:
+>* Improved Debugging and Programming Skills in C++
+>* Application of multiple data structures
+>* Worked in a team environement 
+>* Used GitHub for version control
+>* Practiced Agile Methodologies
